@@ -1,5 +1,5 @@
 # alx_be_shell
-## Shell_permissions
+## shell_permissions
 ### 0. My name is Betty
 
 Create a script that switches the current user to the user betty.
